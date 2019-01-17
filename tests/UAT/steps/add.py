@@ -1,5 +1,5 @@
 # Written using python 3.64
-# Author Egbierele Uku
+# Author EgbieAndersonUku1
 
 from time import sleep
 from pathlib import Path
