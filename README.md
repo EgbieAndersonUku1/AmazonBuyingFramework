@@ -11,6 +11,7 @@ Technologies used:
 Program Goal
 -------------
 
+This an automation program I wrote in Python to perform the following task. 
 The goal of the program is to perform the scenario listed below:
 
 Navigate to www.amazon.com and add the following books to your Amazon basket
